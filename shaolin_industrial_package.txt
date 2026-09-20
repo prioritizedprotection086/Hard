@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════════
+AI YOUTUBE MUSIC PACKAGE — SHAOLIN-INDUSTRIAL
+═══════════════════════════════════════════════════════════
+
+HOW THE YOUTUBE AI ARTISTS ACTUALLY DO IT
+  1. Write or generate lyrics + clear style brief
+  2. Paste into Suno (Custom mode) or Udio
+  3. Generate 5–15 versions; keep top 1–2
+  4. Optional: export stems → light DAW fix → AI master
+  5. Cover art + visualizer / lyric video
+  6. Upload (paid plan = commercial rights for monetization)
+  7. Channels that last add human craft (thumbnails, titles, curation)
+
+───────────────────────────────────────────────────────────
+SUNO STYLE PROMPT (paste into Style field)
+───────────────────────────────────────────────────────────
+experimental hip-hop, industrial boom bap, dark sample collage, underground narrative rap, cinematic menace, cold focus, martial, nocturnal, unpolished power, detuned dusty soul or film-score loop, truncated snare, off-grid kick, distorted mono 808 under the sample, sparse industrial hits, vinyl and tape grit, sudden silence, dry aggressive male rap, complex internals, calm-to-bark dynamics, minimal Auto-Tune, group ad-libs only on hooks, intelligible storytelling, 94 BPM, NOT clean modern trap, NOT generic boom bap; Shaolin chamber dirt plus industrial low-end; vacuum after snares; one damaged loop carries the track; no bright pop sheen, studio quality
+
+───────────────────────────────────────────────────────────
+UDIO PROMPT (natural language)
+───────────────────────────────────────────────────────────
+A cinematic menace, cold focus, martial, nocturnal, unpolished power experimental hip-hop, industrial boom bap, dark sample collage, underground narrative rap track at 94 BPM, featuring detuned dusty soul or film-score loop, truncated snare, off-grid kick, distorted mono 808 under the sample, sparse industrial hits, vinyl and tape grit, sudden silence, with dry aggressive male rap, complex internals, calm-to-bark dynamics, minimal Auto-Tune, group ad-libs only on hooks, intelligible storytelling. NOT clean modern trap, NOT generic boom bap; Shaolin chamber dirt plus industrial low-end; vacuum after snares; one damaged loop carries the track; no bright pop sheen.
+
+───────────────────────────────────────────────────────────
+LYRIC / STRUCTURE SCAFFOLD (Suno Lyrics field)
+───────────────────────────────────────────────────────────
+(Theme: blade in the chamber)
+
+[Intro]
+[Verse]
+(write 4–8 lines — original bars only)
+[Hook]
+(write 4–8 lines — original bars only)
+[Verse]
+[Hook]
+[Bridge]
+(write 4–8 lines — original bars only)
+[Verse]
+[Hook]
+[Outro]
+
+───────────────────────────────────────────────────────────
+SUGGESTED STRUCTURE TAGS
+───────────────────────────────────────────────────────────
+[Intro]
+[Verse]
+[Hook]
+[Verse]
+[Hook]
+[Bridge]
+[Verse]
+[Hook]
+[Outro]
+
+───────────────────────────────────────────────────────────
+POST-GENERATE CHECKLIST
+───────────────────────────────────────────────────────────
+  [ ] Pick best take (hook + vocal clarity)
+  [ ] If muddy: regenerate with 'clear vocals, tight low end'
+  [ ] Optional stem split → balance 808/kick
+  [ ] Master to ~-9 to -7 LUFS for YouTube music
+  [ ] Visual: waveform / AI video / lyric cards
+  [ ] Disclose synthetic content if required by platform
+  [ ] Paid tier before monetizing
+
+Original lyrics and performance intent only.
